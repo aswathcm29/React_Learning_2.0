@@ -1,11 +1,11 @@
 import './right.css'
 import logo from './logo.png'
 
-function RightTop(){
+function Righttop(){
     return(
         <div className='righttop'>
             <div className='righttoplogo'>
-                <img src={logo}/>
+                <img src={logo} className='righttoplogoimg'/>
             </div>
             <div>
                 <h3>VIRTUCARE BOT</h3>
@@ -14,4 +14,4 @@ function RightTop(){
     );
 }
 
-export default RightTop
+export default Righttop;

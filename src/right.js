@@ -1,12 +1,12 @@
 import './right.css'
-import RightTop from './righttop.js'
+import Righttop from './righttop.js'
 import RightChatArea from './righttop.js'
 
-Right = () =>{
+function Right(){
     return(
         <div className="right">
-            <RightTop/>
-            <RightChatArea/>
+            <Righttop/>
+            {/* <RightChatArea/> */}
         </div>
     );
 }
