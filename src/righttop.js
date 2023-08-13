@@ -6,7 +6,7 @@ function Righttop(){
         <div className='righttop'>
             <img src={logo} className='Rlogo'/>
             <div>
-                <h3>VIRTUCARE BOT</h3>
+                <h3>Virtucare Bot</h3>
             </div>
         </div>
     );

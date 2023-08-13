@@ -1,10 +1,19 @@
 *{
     padding: 0px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    overflow-x: hidden;
 }
+.right{
+    width: 100%;
+}
+
 .righttop{
     display: flex;
     align-items: center;
     border: 1px solid silver;
+    width: 100%;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: larger
 }
 
 .Rlogo{
