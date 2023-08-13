@@ -2,4 +2,5 @@
   display: flex;
   border: 1px solid black;
   flex-direction: row;
+  height: 100vh;
 }
