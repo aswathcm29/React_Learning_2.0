@@ -1,7 +1,7 @@
 import './right.css'
 import logo from './logo.png'
 
-RightTop = ()=>{
+function RightTop(){
     return(
         <div className='righttop'>
             <div className='righttoplogo'>

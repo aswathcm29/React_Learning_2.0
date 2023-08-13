@@ -1,0 +1,9 @@
+.right{
+    display: flex;
+    flex-direction: column;
+}
+
+.righttoplogo{
+    height: 50px;
+    width: 50px;
+}
