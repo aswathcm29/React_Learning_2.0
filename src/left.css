@@ -13,11 +13,12 @@
 
 .left-container{
     display:flex;
+    color:#f4b41a;
     font-family:archive;
     flex-direction:column;
     justify-content:center;
     align-items:center;
-    background: #009B8F;   
+    background: #143d59;   
 }
 
 @font-face {
