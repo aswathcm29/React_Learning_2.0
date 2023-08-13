@@ -1,19 +1,19 @@
 *{
     padding:0%;
 }
-.description{
-    display:flex;
-}
+
 .container{
     display:flex;
 }
 
 .logo{
     width:45%;
+    padding:10%;
 }
 
-.img{
+.left-container{
     display:flex;
+    flex-direction:column;
     justify-content:center;
     align-items:center;
 }

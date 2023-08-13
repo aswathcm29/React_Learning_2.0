@@ -4,11 +4,9 @@ import './left.css';
 function Left(){
     return(
         <div className="container">
-            <div className="img">
+            <div className="left-container">
                 <img src={logo} className="logo" alt="logo"></img>
-            </div>
-            <div className="description">
-                <h1>Virtucare</h1>
+                <h1>Virtucare Bot</h1>
             </div>
         </div>
     );
