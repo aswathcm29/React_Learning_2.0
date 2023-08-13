@@ -1,17 +1,13 @@
-/* .container{
-    background-color:black;
-    margin-right:75%;
-    height:100vh;
+.container{
+    position:relative;
 }
 
 .logo{
-    width:30%;
+    width:45%;
 }
 
 .img{
-    position:absolute; 
     display:flex;
-    align-items:center;
     justify-content:center;
-
-} */
+    align-items:center;
+}
