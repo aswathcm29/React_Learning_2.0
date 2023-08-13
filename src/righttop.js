@@ -4,9 +4,7 @@ import logo from './logo.png'
 function Righttop(){
     return(
         <div className='righttop'>
-            <div className='righttoplogo'>
-                <img src={logo} className='righttoplogoimg'/>
-            </div>
+            <img src={logo} className='Rlogo'/>
             <div>
                 <h3>VIRTUCARE BOT</h3>
             </div>
