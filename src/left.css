@@ -1,5 +1,11 @@
+*{
+    padding:0%;
+}
+.description{
+    display:flex;
+}
 .container{
-    position:relative;
+    display:flex;
 }
 
 .logo{

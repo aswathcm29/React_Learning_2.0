@@ -7,7 +7,9 @@ function Left(){
             <div className="img">
                 <img src={logo} className="logo" alt="logo"></img>
             </div>
-
+            <div className="description">
+                <h1>Virtucare</h1>
+            </div>
         </div>
     );
 }
