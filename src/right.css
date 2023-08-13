@@ -5,20 +5,49 @@
 }
 .right{
     width: 100%;
+    display: grid;
+    grid-template-rows: 1fr 6fr 1fr;
 }
 
 .righttop{
+    height: auto;
     display: flex;
     align-items: center;
     border: 1px solid silver;
     width: 100%;
     font-size: larger;
     background-color:#f4b41a;
-    ;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+    border-top: none;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
 }
 
 .Rlogo{
-    width: 10%;
+    display: flex;
+    width: 7%;
     padding: 10px;
     padding-right: 30px;
+}
+
+.inputarea{
+    margin: 10px;
+    padding: 10px;
+    height: 30px;
+    width: 80%;
+    border-radius: 20px;
+}
+
+.Textarea{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.send{
+    width: 20%;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #f4b41a;
+    font-size: larger;
 }
