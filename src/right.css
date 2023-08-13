@@ -1,9 +1,16 @@
-.right{
+*{
+    padding: 0px;
+}
+.righttop{
     display: flex;
-    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .righttoplogo{
-    height: 50px;
-    width: 50px;
+    width: 50%;
+}
+
+.righttoplogoimg{
+    width: 20%;
 }
