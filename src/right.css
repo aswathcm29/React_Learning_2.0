@@ -3,14 +3,11 @@
 }
 .righttop{
     display: flex;
-    justify-content: center;
     align-items: center;
+    border: 1px solid silver;
 }
 
-.righttoplogo{
-    width: 50%;
-}
-
-.righttoplogoimg{
-    width: 20%;
+.Rlogo{
+    width: 10%;
+    padding: 10px;
 }
