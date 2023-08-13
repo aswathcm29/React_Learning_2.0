@@ -1,6 +1,7 @@
 
 import logo from './logo.png'
 import './left.css';
+import './Archive.otf';
 function Left(){
     return(
         <div className="container">

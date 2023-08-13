@@ -7,13 +7,20 @@
 }
 
 .logo{
-    width:45%;
+    width:60%;
     padding:10%;
 }
 
 .left-container{
     display:flex;
+    font-family:archive;
     flex-direction:column;
     justify-content:center;
     align-items:center;
+    background: #009B8F;   
+}
+
+@font-face {
+    font-family: archive;
+    src: url('Archive.otf');
 }
