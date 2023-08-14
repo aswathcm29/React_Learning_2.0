@@ -8,6 +8,7 @@ function Left(){
             <div className="left-container">
                 <img src={logo} className="logo" alt="logo"></img>
                 <h1>Virtucare Bot</h1>
+                <h3>Instant AI Customer Assistance. 24/7 support, efficient query resolution, and personalized solutions. Simplifying customer interactions</h3>
             </div>
         </div>
     );
